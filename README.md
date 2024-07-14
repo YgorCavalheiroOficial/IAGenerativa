@@ -1,6 +1,4 @@
-# IAGenerativa
-
-# Título do Projeto Extremamente Aesthetic ;)
+# IAGenerativa - Criando uma empresa do zero.
 
 ## 📒 Descrição
 Geração de apresentação empresarial.
